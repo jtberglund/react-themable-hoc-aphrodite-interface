@@ -1,6 +1,6 @@
 {
     "name": "react-themable-hoc-aphrodite-interface",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "description": "Use Aphrodite with react-themable-hoc",
     "repository": {
         "type": "git",
