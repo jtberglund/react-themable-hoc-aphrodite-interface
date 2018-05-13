@@ -39,7 +39,7 @@
         "test-watch": "npm run testonly -- --watch --watch-extensions js"
     },
     "devDependencies": {
-        "aphrodite": "^1.2.3",
+        "aphrodite": "^2.2.0",
         "babel-cli": "^6.6.4",
         "babel-core": "^6.7.4",
         "babel-eslint": "^6.0.2",
@@ -57,7 +57,7 @@
         "nodemon": "^1.9.1"
     },
     "peerDependencies": {
-        "aphrodite": "^1.2.0",
+        "aphrodite": "^2.0.0",
         "react-themable-hoc": "^0.1.2"
     },
     "dependencies": {
